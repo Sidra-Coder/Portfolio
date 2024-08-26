@@ -1,0 +1,13 @@
+.flex{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 100px;
+}
+h1{
+    background-color: blueviolet;
+    color: white;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
