@@ -1,4 +1,7 @@
-
+body{
+    margin: 0;
+    padding: 0;
+}
 .body{
 
     height: 800px;
@@ -26,8 +29,9 @@
     font-family:sans-serif;
 }
 h1 {
-    padding-left: 235px;
+    padding-left: 240px;
     padding-bottom: none;
+    font-size: 3rem;
 }
 p{
     padding-left: 235px;
@@ -52,10 +56,10 @@ p{
 }
 
 .pic{
-    height: 180px;
+     height: 180px;
      width: 210px;
      position: relative;
-     bottom: 150px;
+     bottom: 155px;
      background-image: url(html_finalprojimages/Untitled_design__2_-removebg-preview.png);
      background-size: cover;
 }
